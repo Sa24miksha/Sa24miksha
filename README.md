@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **samikshayadaav@gmail.com**
 
-- 👥 Linkedin **www.linkedin.com/in/samiksha-yadav-04a6a522a**
-
 - ⚡ Fun fact **I am a writer**
 
 <h3 align="left">Connect with me:</h3>
