@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **samikshayadaav@gmail.com**
 
