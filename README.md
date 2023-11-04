@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/samiksh2431" target="blank"><img src="https://img.shields.io/twitter/follow/samiksh2431?logo=twitter&style=for-the-badge" alt="samiksh2431" /></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN** and **BLOCKCHAIN**
 
 - 📫 How to reach me **samikshayadaav@gmail.com**
 
