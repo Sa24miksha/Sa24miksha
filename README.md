@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/samiksh2431" target="blank"><img src="https://img.shields.io/twitter/follow/samiksh2431?logo=twitter&style=for-the-badge" alt="samiksh2431" /></a> </p>
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 Passionate B.Tech student specializing in MERN Stack, Firebase and Blockchain. Strong in DSA with a keen interest in cloud computing and prompt engineering. Eager to contribute and learn in the world of tech innovation and I’m currently learning **AI and Machine Learning**
 
-- 💬 Ask me about **MERN** and **BLOCKCHAIN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **samikshayadaav@gmail.com**
 
