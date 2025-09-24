@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/samiksh2431" target="blank"><img src="https://img.shields.io/twitter/follow/samiksh2431?logo=twitter&style=for-the-badge" alt="samiksh2431" /></a> </p>
 
-- 🌱 Passionate B.Tech student specializing in MERN Stack, Firebase and Blockchain. Strong in DSA with a keen interest in cloud computing and prompt engineering. Eager to contribute and learn in the world of tech innovation and I’m currently learning **AI and Machine Learning**
+- 🌱🚀 Junior Software Engineer
+💻 Tech Stack: Java, Spring Boot, JavaScript (ES6+), TypeScript, React.js, Node.js, Express.js, MongoDB, MySQL, Firebase, Git/GitHub, AWS (beginner)
+📊 Strong in DSA | Exploring System Design
+☁️ Keen interest in Blockchain & DevOps | Learning AI & Machine Learning
+🌱 Always building, learning & sharing in the world of tech innovation
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **JAVA | Spring | React | AiOps**
 
 - 📫 How to reach me **samikshayadaav@gmail.com**
 
-- ⚡ Fun fact **I am a writer**
+- ⚡ Fun fact **I’ve interned at DRDO and ISRO 🇮🇳**
 
   [![An image of @sa24miksha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sa24miksha)](https://holopin.io/@sa24miksha)
 
