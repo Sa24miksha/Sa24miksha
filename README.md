@@ -1,19 +1,11 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 <h1 align="center">Hey 👋, I'm Samiksha </h1>
-<h3 align="center">A passionate Java FullStack Developer from India also a professional tectonic enthusiast - because who doesn't enjoy being rudely awakened by a seismic surprise?</h3>
+<h3 align="center">A passionate AiOps Engineer also a professional tectonic enthusiast - because who doesn't enjoy being rudely awakened by a seismic surprise?</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sa24miksha&label=Profile%20views&color=0e75b6&style=flat" alt="sa24miksha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/samiksh2431" target="blank"><img src="https://img.shields.io/twitter/follow/samiksh2431?logo=twitter&style=for-the-badge" alt="samiksh2431" /></a> </p>
-
-- 🌱🚀 Junior Software Engineer
-💻 Tech Stack: Java, Spring Boot, JavaScript (ES6+), TypeScript, React.js, Node.js, Express.js, MongoDB, MySQL, Firebase, Git/GitHub, AWS (beginner)
-📊 Strong in DSA | Exploring System Design
-☁️ Keen interest in Blockchain & DevOps | Learning AI & Machine Learning
-🌱 Always building, learning & sharing in the world of tech innovation
-
-- 💬 Ask me about **JAVA | Spring | React | AiOps**
 
 - 📫 How to reach me **samikshayadaav@gmail.com**
 
